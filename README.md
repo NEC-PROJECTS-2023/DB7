@@ -1,14 +1,13 @@
 # DB7
 Car Price Prediction using Machine Learning
 
-M vinesh
-y veeranjaneyulu
-N.sanjeeva reddy
+### Team Members
+1. M.Vinesh
+2. Y.Veeranjaneyulu
+3. N.Sanjeeva Seddy
 
-
-
-
-Abstract— The car price prediction project using 
+### Introduction
+The car price prediction project using 
 machine learning is used to develop a predictive 
 model that can accurately estimate best price of a 
 car based on various factors such as the make and 
@@ -33,4 +32,4 @@ in the training process . Overall, the car price
 prediction project using machine learning will 
 provide a useful tool for car buyers and sellers to 
 determine a fair price for a car based on its features 
-and condition
+and condition.
