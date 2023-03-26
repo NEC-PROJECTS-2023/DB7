@@ -4,7 +4,7 @@ Car Price Prediction using Machine Learning
 ### Team Members
 1. M.Vinesh
 2. Y.Veeranjaneyulu
-3. N.Sanjeeva Seddy
+3. N.Sanjeeva Reddy
 
 ### Introduction
 The car price prediction project using 
